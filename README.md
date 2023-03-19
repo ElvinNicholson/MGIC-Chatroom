@@ -1,1 +1,2 @@
-# MGIC-Chatroom
+# chatroom++ template
+
